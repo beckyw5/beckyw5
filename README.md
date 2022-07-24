@@ -1,12 +1,11 @@
 # :sparkles: Welcome, I'm Becky :coffee: :sparkles:
 
-I am a Software Developer currently based in North Yorkshire, 
-with experience in JavaScript, Symfony, PHP, Python and CMS 
-frameworks.
+I am a Software Developer based in North Yorkshire, with experience 
+in JavaScript, TypeScript Symfony, PHP, Python and CMS frameworks.
 
 ## Currently focusing on
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=Go)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 
 ## Languages and Tools
@@ -22,7 +21,7 @@ frameworks.
 
 :raising_hand: Mentoring / sharing knowledge 
 
-:dog: Spending time with my Hippo pup, Luna
+:dog: Spending time with my pups
 
 :airplane: Travelling 
 
