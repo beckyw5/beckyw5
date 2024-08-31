@@ -1,20 +1,29 @@
 # :sparkles: Welcome, I'm Becky :coffee: :sparkles:
 
-I am a Software Developer based in North Yorkshire, with experience 
-in JavaScript, TypeScript Symfony, PHP, Python and CMS frameworks.
+I am a Software Developer based in Yorkshire, with experience in TypeScript, JavaScript, React, PHP, Python and CMS frameworks (Drupal & Wordpress).
 
 ## Currently focusing on
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&logo=kubernetes)&nbsp;
+![Terraform](https://img.shields.io/badge/-terraform-05122A?style=for-the-badge&logo=terraform)&nbsp;
+
+## Cloud
+![Google Cloud Accredited](https://img.shields.io/badge/-GoogleCloudAccredited-05122A?style=for-the-badge&logo=google-cloud)&nbsp;
+![GCloud PubSub](https://img.shields.io/badge/-PubSub-05122A?style=for-the-badge&logo=googlepubsub)&nbsp;
+![GCloud Storage](https://img.shields.io/badge/-Storage-05122A?style=for-the-badge&logo=googlecloudstorage)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazonwebservices)&nbsp;
+![AWS Lambda](https://img.shields.io/badge/-Lambda-05122A?style=for-the-badge&logo=awslambda)&nbsp;
+![AWS S3](https://img.shields.io/badge/-S3-05122A?style=for-the-badge&logo=amazons3)&nbsp;
 
 ## Passions
 :books: Learning / finding new challenges
